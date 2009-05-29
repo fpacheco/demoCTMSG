@@ -1,0 +1,315 @@
+DEBUG    [2009-04-28 16:00:02.836435] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-28 16:00:04.215164] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-04-28 18:00:02.246254] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-28 18:00:04.175423] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-04-28 20:00:02.684502] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-29 04:00:11.583316] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-29 18:00:02.725120] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-29 20:00:02.467787] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-29 22:00:02.403479] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-30 00:00:02.315365] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-30 02:00:02.326246] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-30 04:00:02.247529] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-30 06:00:01.926435] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-30 08:00:07.237716] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-30 10:00:02.845246] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-30 12:00:02.871790] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-30 14:00:02.175848] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-30 16:00:02.697438] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-04-30 18:00:02.845768] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-01 22:00:02.433825] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-02 00:00:02.145771] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-02 00:00:21.684640] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-02 02:00:02.079569] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-02 04:00:02.586426] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-02 04:01:10.968266] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-02 06:00:02.162132] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-02 08:00:02.047887] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-02 08:01:15.483233] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-02 10:00:02.538047] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-02 10:00:49.268486] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-02 12:00:01.832445] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-02 12:00:25.920805] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-02 16:00:02.732422] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-02 16:00:20.012958] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-02 18:00:02.653853] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-02 18:00:08.552184] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-02 20:00:02.391378] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-02 20:00:08.336543] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-02 22:00:01.772900] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-02 22:00:11.408872] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-03 00:00:02.829550] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-03 00:00:11.951175] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-03 10:00:02.731674] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-03 10:00:10.254256] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-03 12:00:02.081647] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-03 12:00:08.579615] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-04 10:00:02.003538] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-04 10:00:06.934088] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-04 12:00:02.474409] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-04 12:00:03.817238] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-04 14:00:01.932605] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-04 14:00:04.963646] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-04 16:00:02.234539] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-04 16:00:04.287133] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-04 18:00:02.401970] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-04 18:00:04.032446] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-04 20:00:02.409428] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-04 20:00:04.604121] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-04 22:00:02.289106] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-04 22:00:04.444903] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-05 00:00:01.847444] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-05 02:00:02.403666] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-05 02:00:04.138277] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-05 04:00:01.844152] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-05 06:00:02.271117] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-05 06:00:03.470412] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-05 08:00:02.601944] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-05 08:00:04.693227] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-05 10:00:02.324385] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-05 10:00:06.040187] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-05 12:00:02.286381] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-05 12:00:03.838320] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-05 14:00:02.384483] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-05 14:00:04.591778] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-05 16:00:02.788308] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-05 16:00:15.349557] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-05 18:00:02.681543] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-05 18:00:06.423662] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-05 20:00:03.156993] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-05 20:00:07.436861] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-05 22:00:02.362564] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-05 22:00:03.771287] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-06 00:00:02.263260] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-06 00:00:04.475238] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-06 02:00:02.581461] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-06 02:00:04.596082] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-06 04:00:02.297797] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-06 04:00:03.721863] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-06 06:00:02.269624] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-06 06:00:04.382213] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-06 08:00:06.471654] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-06 08:00:17.939147] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-06 10:00:01.865354] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-06 10:00:03.839589] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-06 12:00:01.862643] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-06 14:00:02.618472] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-06 14:00:04.417921] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-06 16:00:01.949307] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-06 18:00:01.906532] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-06 20:00:01.876170] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-06 20:00:06.063577] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-06 22:00:02.432413] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-06 22:00:04.114352] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-07 00:00:02.452254] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-07 00:00:04.424397] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-07 02:00:02.503392] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-07 04:00:02.526102] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-07 06:00:02.524203] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-07 08:00:02.694919] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-07 10:00:06.604047] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-07 10:00:10.525986] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-07 12:00:03.263353] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-07 12:00:07.477397] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-07 14:00:02.694481] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-07 14:00:04.808150] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-07 16:00:02.061862] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-07 16:00:03.469579] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-07 18:00:02.153547] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-07 18:00:04.273928] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-07 20:00:02.452309] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-07 20:00:09.342286] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-07 22:00:01.870519] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-07 22:00:04.883448] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-08 00:00:02.497127] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-08 00:00:04.575676] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-08 02:00:02.610759] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-08 02:00:04.860623] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-08 04:00:02.307949] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-08 04:00:03.535653] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-08 06:00:02.021274] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-08 06:00:03.191345] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-08 08:00:02.147530] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-08 08:00:04.281054] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-08 10:00:03.036352] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-08 10:00:05.489626] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-08 12:00:02.792085] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-08 12:00:04.890124] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-08 14:00:02.419926] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-08 14:00:03.741774] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-08 16:00:02.497566] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-08 18:00:01.760126] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-11 10:00:02.264410] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-11 10:00:13.795689] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-11 12:00:02.928909] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-11 12:00:04.192484] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-11 14:00:01.936004] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-11 14:00:07.695918] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-11 16:00:02.675756] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-11 16:00:05.057686] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-11 18:00:02.606081] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-11 18:00:05.188238] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-11 20:00:02.626473] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-11 20:00:10.395365] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-11 22:00:02.427923] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 00:00:02.341036] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 00:00:04.894789] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-12 02:00:02.679140] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 04:00:01.961343] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 04:00:03.580290] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-12 06:00:01.869474] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 08:00:04.232047] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 08:00:06.233757] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-12 10:00:02.023652] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 12:00:02.208618] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 14:00:02.653428] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 14:00:04.981076] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-12 16:00:01.990206] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 16:00:03.124214] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-12 18:00:01.995937] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 18:00:03.253528] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-12 20:00:02.622231] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 20:00:07.909336] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-12 22:00:02.302224] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-12 22:00:04.865126] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-13 00:00:02.417779] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-13 02:00:02.456720] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-13 02:01:37.180084] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-13 04:00:01.964198] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-13 06:00:01.984181] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-13 06:01:36.047929] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-13 08:00:06.607790] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-13 10:00:02.140909] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-13 10:01:39.088011] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-13 12:00:02.688996] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-13 14:00:02.329102] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-13 14:00:04.301384] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-13 16:00:02.318480] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-13 16:00:05.261701] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-13 18:00:01.947231] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-13 18:00:04.547142] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-13 20:00:02.702833] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-13 20:00:05.411508] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-13 22:00:01.676593] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-13 22:00:04.220885] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-14 00:00:02.216503] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-14 00:00:04.812019] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-14 02:00:01.937636] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-14 02:00:03.076926] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-14 04:00:02.816589] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-14 06:00:02.617889] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-14 08:00:02.711646] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-14 08:00:04.685610] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-14 10:00:03.733586] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-14 10:00:06.013668] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-14 12:00:02.035730] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-14 12:00:09.771461] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-14 14:00:02.113485] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-14 14:00:11.045018] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-14 16:00:02.534480] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-14 16:00:14.461514] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-14 18:00:03.812004] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-14 18:00:17.790514] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-14 20:00:30.262975] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-14 20:00:44.467631] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-14 22:00:03.294006] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-14 22:00:11.724174] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-15 00:00:02.486408] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-15 00:00:04.505787] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-15 02:00:02.716581] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-15 02:01:41.205879] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-15 04:00:01.966803] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-15 06:00:02.736951] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
+DEBUG    [2009-05-15 06:01:36.903923] - Tratando de guardar datos en BD: /home/fpacheco/trabajo/computacion/demoCTMSG/demoPF.sqlite3
+DEBUG    [%s] - Fin
+DEBUG    [2009-05-15 08:00:04.456685] - Tratando de conectar a la pagina: http://www.tractebelenergia.com.br/telemetria/telemetria/telemetricas_passofundo.html
